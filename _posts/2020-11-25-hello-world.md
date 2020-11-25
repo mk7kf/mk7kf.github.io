@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World
+title: hello world
 date: 2020-11-25
 ---
 
