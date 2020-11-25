@@ -1,4 +1,4 @@
 name: Cherrie Kwok
 markdown: kramdown
-theme: minima
+remote_theme: minima
 permalink: /blog/:year/:month/:day/:title
