@@ -8,4 +8,4 @@ page.author: Cherrie
 
 ---
 
-Going to try and install Jekyll properly this time...
+Going to try and install Jekyll properly this time...wish me luck.
