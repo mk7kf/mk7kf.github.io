@@ -1,5 +1,6 @@
 name: Cherrie Kwok
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-
+logo: /assets/img/https://user-images.githubusercontent.com/45428531/100188683-b62a0780-2eb8-11eb-9fde-6009ae26f056.jpg
 theme: jekyll-theme-minimal
+
