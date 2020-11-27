@@ -1,3 +1,4 @@
 ---
-layout: home
+layout: blog
+page.title: Blog
 ---
