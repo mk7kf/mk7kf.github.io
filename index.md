@@ -8,8 +8,6 @@
 layout: home
 ---
 
-<p>Hi there, :wave:</p>
-
 <p>I'm a PhD Candidate and the Elizabeth Arendall Tilney Jefferson Fellow in the Department of English at the Univeristy of Virginia. </p>
 <p>My dissertation focuses on the relationship between :book: literature and :classical_building: politics. More specifically, I'm studying how writers from Black America, the Caribbean, China, and India constructed anti-imperial ideas in their poetry and prose by drawing on a late-Victorian aesthetic and social movement called Decadence. 
 <p>My work builds on my existing research interests in Global Anglophone Literature (especially from the Victorian period onwards), Digital Humanities, Poetry, and Postcolonial Theory.</p>
