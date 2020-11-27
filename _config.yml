@@ -1,8 +1,8 @@
 title: Cherrie Kwok
 author: Cherrie Kwok
 name: Cherrie Kwok
-email: mk7kf@virginia.com
-description: mk7kf [at] virginia [dot] com
+email: "mk7kf@virginia.com"
+description: My first GitHub websbite, built with Jekyll. 
 google_analytics: UA-179062687-1
 show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
