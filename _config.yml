@@ -3,10 +3,7 @@ author: Cherrie Kwok
   name: Cherrie Kwok
   email: mk7kf@virginia.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-Cherrie Kwok
-google_analytics: UA-179062687-1
-plugins:
-  - jemoji
+test
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -58,3 +55,4 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+ - jemoji
