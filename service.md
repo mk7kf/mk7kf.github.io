@@ -2,7 +2,7 @@
 layout: page
 title: Service
 ---
-<img src ="https://user-images.githubusercontent.com/45428531/100492224-486c1e80-30f8-11eb-88e1-a8771084ac03.jpg">
+<img src ="https://user-images.githubusercontent.com/45428531/100491998-5325b400-30f6-11eb-8671-09eeb38d9dcc.jpg">
 <h3>:school:	for the University of Virginia, Department of English</h3>
 <ul>
 <li> Co-Organizer, Thomas Jefferson and Colonization, Slavery, and White Supremacy ENWR Curriculum Development Working Group, 2020-21</li>
