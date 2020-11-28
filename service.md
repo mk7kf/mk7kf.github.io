@@ -26,7 +26,7 @@ title: Service
 <li>Organizer, Charlottesville Satellite Summer Reading Group, Summer 2019</li>
 </ul>
 
-<h3>:woman_teacher:	for the <a href="https://undiscipliningvc.org/">Undisciplining Victorian Classroom Project</a></h3>
+<h3>:woman_teacher:	for the <a href="https://undiscipliningvc.org/">Undisciplining The Victorian Classroom Project</a></h3>
 <ul>
 <li>Contributor, Victorian Studies and the African Diaspora Curriculum Group, Fall 2020</li>
 </ul>
