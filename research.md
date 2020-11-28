@@ -26,6 +26,23 @@ title: Research
 			<li>Participant, Art & Feminism Wikipedia Edit-A-Thon, Guggenheim Museum, Fall 2016</li>
 			<li>Content and Social Media Developer, NYU Center for Data Science, 2016-2018</li>
 </ul>
+
+<h3>Conference Papers</h3>
+<ul>
+			<li>“Wikipedia, Race, and the Undergraduate Composition Class,” Chesapeake Digital Humanities Consortium, Williamsburg, Virginia, 2020. (Paper accepted but conference cancelled because of snowstorm.) </li>
+	<li>“From Brontë to Condé: On Caribbean Decadent Aesthetics in <i>Windward Heights</i>,” (Forms of Protest panel), Transatlantic Connections: Africa, the Caribbean, the Americas, and Victorian Studies, The Victorians Institute, Charleston, 2019. </li> 
+			<li>“Decadent Transformations between Sarojini Naidu and Arthur Symons,” National Young Researchers Conference on Victoriana, Burdwan, India, 2017 (Abstract accepted, but unable to attend because there was no funding.)</li>
+			<li>“Close-Listening to Charles Olson’s “The Kingfishers,” The Vibrating World: Soundscapes and Undersongs (Sonic and Textual Archives panel), City University New York English Student Association Graduate Conference, New York, 2017. </li>
+	<li>“The Knowledge of Good and Evil in J.D. Salinger’s <i>Catcher in the Rye</i>,” British Conference of Undergraduate Research, Winchester, UK, 2015.</li>
+	<li>“The Knowledge of Good and Evil in J.D. Salinger’s <i>Catcher in the Rye</i>,” The Undergraduate Awards, Dublin, Ireland, 2014. </li>
+</ul>
+
+<h3>Invited Talks</h3>
+<ul>
+			<li>“Using Twitter for Academia: A Talk and Workshop.” Engineers Writing for Public Audiences (EWPA), Graduate School of Engineering, University of Virginia, 2019. </li>
+			<li>“Queer Encoding and Identity Formation in the Nineteenth-Century Manuscript Diary.” Queer Encoding: Encoding Diverse Identities, Center for the Humanities, New York University, 2017.</li>
+			<li>“TEI and Literature: Digitally encoding the Michael Field diaries.” Digital Humanities Internships Project Showcase, Center for the Humanities, New York University, 2016. </li>
+</ul>
 <h3>Languages</h3>
 <ul>
 	<li>English, Cantonese (speaking knowledge), Mandarin (简体字，proficient), French (reading knowledge), TEI, HTML/CSS, Python (definitely a beginner)</li>
