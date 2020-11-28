@@ -51,4 +51,3 @@ title: Research
 	<li>English, Cantonese (speaking knowledge), Mandarin (简体字，proficient), French (reading knowledge), TEI, HTML/CSS, Python (definitely a beginner)</li>
 </ul>
 <br>
-<i>Quote: Edward Fitzgerald, "The Rubaiyat of Omar Khayyam"</i>
