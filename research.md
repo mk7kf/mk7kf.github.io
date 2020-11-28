@@ -1,9 +1,9 @@
 ---
 layout: page
+title: Research
 ---
-<h1><b>Research</b></h1>
 <h3>Peer-Reviewed Articles</h3>
-	<p><i>:mag_right: Research Papers</i></p>
+	<p><i>:memo: Literary Criticism</i></p>
   	<ul>
 	<li>“Re-Visioning Decadent Symbolist Aesthetics: Sarojini Naidu’s “Eastern Dancers,” Arthur Symons’s “Javanese Dancers,” and Anti-Imperial Experimentation.” Submitted to <i>Victorian Poetry</i> on November 2018. Invited to revise and resubmit on February 2019. Revised and resubmitted on July 2020, under review. </li> 
 	</ul>
