@@ -32,8 +32,9 @@ title: Service
 <li>Contributor, Victorian Studies and the African Diaspora Curriculum Group, Fall 2020</li>
 </ul>
 
-<h3>:loudspeaker:	for the<a href="https://www.amadoudiallo.org/"> Amadou Diallo Foundation</a></h3>
+<h3>:loudspeaker:	for non-profit organizations</h3>
 <ul>
-<li>Programs Lead, 2020 - present</li>
+<li>Programs Lead, <a href="https://www.amadoudiallo.org/"> The Amadou Diallo Foundation</a>, 2020 - present</li>
+<li>Reader and Respondent, Challenge into Change Writing Competition, <a href="https://thewomensinitiative.org/">The Women's Initiative</a>, January 2020</li>
 </ul>
 
