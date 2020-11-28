@@ -48,6 +48,7 @@ minima:
 header_pages:
   - research.md
   - teaching.md
+  - service.md
   - blog.md
   
 
