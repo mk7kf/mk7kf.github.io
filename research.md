@@ -50,23 +50,3 @@ title: Research
 <ul>
 	<li>English, Cantonese (speaking knowledge), Mandarin (简体字，proficient), French (reading knowledge), TEI, HTML/CSS, Python (definitely a beginner)</li>
 </ul>
-
-<h3>Honors</h3>
-<ul>
-	<li>Jefferson Fellowship, The Jefferson Scholars Foundation, University of Virginia, 2020-2022</li>
-	<li>Praxis Fellowship, UVa Library’s Scholars’ Lab, University of Virginia, 2020-2021 (deferred to 2021-2022 due to COVID-19)</li>
-	<li>Arts, Humanities, and Social Sciences Research Award, University of Virginia, Summer 2020 (deferred to Summer 2021 due to COVID 19)</li>
-	<li>Digital Humanities Summer Institute (DHSI) Tuition Fellowship, UVa Library’s Scholars’ Lab, Summer 2020 (deferred to Summer 2021 due to COVID-19)</li>
-	<li>Flash Funding Grant for the Graduate English Students Association (GESA) Annual Graduate Conference, The Jefferson Trust, University of Virginia, Spring 2020</li> 
-	<li>Global South Lab Dissertation Proposal Fellowship, Institute of Humanities and Global Cultures (IHGC), University of Virginia, Spring 2020</li>
-	<li>Dean’s Graduate Research Development Fund Award, University of Virginia, 2018</li>
-	<li>Millicent Bell Prize for the Most Outstanding M.A. Thesis, Department of English, New York University, 2017</li>
-	<li>Selected Graduate Representative, Dickens Universe Conference, Department of English, New York University, 2017</li>
-	<li>Brine-NYU Digital Humanities Internship Award, New York University, 2016</li>
-	<li>Department of English Tuition Scholarship, New York University, 2015-2017</li>
-	<li>College of Humanities Commendation for Contribution to the Life of the English Department, University of Exeter, 2015</li>
-	<li>Recipient, 41 Exeter Women in Higher Education, University of Exeter, 2015</li>
-	<li>High Commendation in English Literature (top 10% globally), The Undergraduate Awards, 2014</li>
-	<li>Dean’s Travel and Research Award, University of Exeter, 2014</li>
-	<li>British Columbia Ministry of Education Examinations Scholarship, British Columbia, Canada, 2012. </li>
-</ul>
