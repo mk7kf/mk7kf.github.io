@@ -6,7 +6,7 @@ title: Teaching
 <ul>
 <li> Writing Tutor, Writing Center, Spring 2019, Summer 2019, Fall 2019, Spring 2020, Summer 2020, Fall 2020</li>
 <li> Writing and Rhetoric Program Pedagogy Mentor, Fall 2020, Spring 2021</li>
-<li>Instructor of Record, <b>ENWR 1510 Writing & Critical Inquiry: “Writing about Digital Forms: Instagram, Wikipedia, and <i>Black Mirror</i>”</b> (themed undergraduate expository writing course), Spring 2020
+<li>Instructor of Record, <b>ENWR 1510 Writing & Critical Inquiry: “Writing about Digital Forms: Instagram, Wikipedia, and <i>Black Mirror</i>”</b> (themed undergraduate expository writing course), Spring 2020</li>
 <li>Instructor of Record, <b>ENWR 1510 Writing & Critical Inquiry: “Writing about Digital Forms: Instagram, Wikipedia, and Podcasts”</b> (themed undergraduate expository writing course), Fall 2019 </li>
 </ul>
 
