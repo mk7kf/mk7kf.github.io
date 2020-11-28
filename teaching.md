@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-<img src="https://user-images.githubusercontent.com/45428531/100492191-e3b0c400-30f7-11eb-98f7-e3dcab82b0b4.jpg">
+<img src="https://user-images.githubusercontent.com/45428531/100495352-d8ba5b80-3118-11eb-9bcc-0288d0161f68.jpg">
 <h3>:woman_teacher:	 University of Virginia, Department of English</h3>
 <ul>
 <li> Writing Tutor, Writing Center, Spring 2019, Summer 2019, Fall 2019, Spring 2020, Summer 2020, Fall 2020</li>
