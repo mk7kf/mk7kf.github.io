@@ -4,4 +4,4 @@ title: Research
 ---
 
 <h3>Peer-Reviewed Articles</h3>
-	<i>Literary Criticism</i>
+	Literary Criticism
