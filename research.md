@@ -26,3 +26,7 @@ title: Research
 			<li>Participant, Art & Feminism Wikipedia Edit-A-Thon, Guggenheim Museum, Fall 2016</li>
 			<li>Content and Social Media Developer, NYU Center for Data Science, 2016-2018</li>
 </ul>
+<h3>Languages</h3>
+<ul>
+	<li>English, Cantonese (speaking knowledge), Mandarin (简体字，proficient), French (reading knowledge), TEI, HTML/CSS, Python (definitely a beginner)</li>
+</ul>
