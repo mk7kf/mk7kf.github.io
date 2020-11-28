@@ -20,3 +20,4 @@ title: Teaching
 <ul>
 <li>	Writing Consultant, Summer 2019</li>
 </ul>
+<i>Quote: Leila Chatti, "Mary Speaks"</i>
