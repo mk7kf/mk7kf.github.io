@@ -13,7 +13,6 @@ title: Service
 <li>Mock Examiner for the Ph.D. Oral Exam on the Victorian Period, Fall 2020</li>
 <li>Writing and Composition Program Representative, 2020-21</li>
 <li>Co-Chair, Annual Graduate Conference (CFP: Transformation), 2019-2020</li>
-<li>Mock Examiner for the Ph.D. Oral Exam on the Victorian Period, Fall 2020</li>
 <li>Abstracts Reader, Annual Graduate Conference (CFP: Affect & Attachment) Spring 2019</li> 
 </ul>
 
