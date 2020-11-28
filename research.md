@@ -2,8 +2,8 @@
 layout: page
 title: Research
 ---
-<img src="https://user-images.githubusercontent.com/45428531/100495151-89732b80-3116-11eb-9201-c9eab2a0911f.jpg">
 
+<img src="https://user-images.githubusercontent.com/45428531/100495151-89732b80-3116-11eb-9201-c9eab2a0911f.jpg">
 <h3>Peer Reviewed Articles</h3>
 <i>:memo: Literary Criticism</i>
 <ul>
@@ -50,3 +50,5 @@ title: Research
 <ul>
 	<li>English, Cantonese (speaking knowledge), Mandarin (简体字，proficient), French (reading knowledge), TEI, HTML/CSS, Python (definitely a beginner)</li>
 </ul>
+<br>
+<i>Quote: Edward Fitzgerald, "The Rubaiyat of Omar Khayyam"</i>
