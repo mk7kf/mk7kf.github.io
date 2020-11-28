@@ -2,6 +2,8 @@
 layout: page
 title: Research
 ---
+<img src="https://user-images.githubusercontent.com/45428531/100491998-5325b400-30f6-11eb-8671-09eeb38d9dcc.jpg">
+
 <h3>Peer Reviewed Articles</h3>
 <i>:memo: Literary Criticism</i>
 <ul>
