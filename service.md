@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Service
+title: :memo: Service
 ---
 <img src ="https://user-images.githubusercontent.com/45428531/100495404-7c0b7080-3119-11eb-8670-5ee7297970cf.jpg">
 <h3>:school:	for the University of Virginia, Department of English</h3>
