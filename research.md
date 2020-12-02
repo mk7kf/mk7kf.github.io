@@ -23,7 +23,7 @@ title: Research
 </ul>
 <i>:muscle: Activism & Public Humanities</i>
 <ul>
-			<li>Co-Organizer, Recovering UVA’s Student Activism History, Wikipedia Edit-A-Thon, University of Virginia, March 2020</li>
+			<li>Organizer, Recovering UVA’s Student Activism History, Wikipedia Edit-A-Thon, University of Virginia, March 2020</li>
 			<li>Organizer, African American Literature and Culture Wikipedia Edit-A-Thon, University of Virginia, November 2019</li> 
 			<li>Participant, Art & Feminism Wikipedia Edit-A-Thon, Guggenheim Museum, Fall 2016</li>
 			<li>Content and Social Media Developer, NYU Center for Data Science, 2016-2018</li>
