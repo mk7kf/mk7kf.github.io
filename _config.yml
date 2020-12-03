@@ -50,7 +50,9 @@ header_pages:
   - teaching.md
   - service.md
   - blog.md
-  
+
+disqus: 
+  shortname: mk7kf
 
 # Build settings
 theme: minima
