@@ -2,7 +2,7 @@
 layout: page
 title: Service
 ---
-<img src ="https://user-images.githubusercontent.com/45428531/100495404-7c0b7080-3119-11eb-8670-5ee7297970cf.jpg">
+<a href="https://www.poetryfoundation.org/poets/derek-walcott"><img src ="https://user-images.githubusercontent.com/45428531/100495404-7c0b7080-3119-11eb-8670-5ee7297970cf.jpg"></a>
 <h3>:school:	for the University of Virginia, Department of English</h3>
 <ul>
 <li> Co-Organizer, Thomas Jefferson and Colonization, Slavery, and White Supremacy ENWR Curriculum Development Working Group, 2020-21</li>
