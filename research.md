@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<img src="https://user-images.githubusercontent.com/45428531/100495151-89732b80-3116-11eb-9201-c9eab2a0911f.jpg">
+<a href="https://archive.org/details/rubiytofoma00omaruoft"><img src="https://user-images.githubusercontent.com/45428531/100495151-89732b80-3116-11eb-9201-c9eab2a0911f.jpg"></a>
 <h3>Peer Reviewed Articles</h3>
 <i>:memo: Literary Criticism</i>
 <ul>
