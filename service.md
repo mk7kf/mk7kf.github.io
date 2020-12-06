@@ -5,7 +5,7 @@ title: Service
 <a href="https://www.poetryfoundation.org/poets/derek-walcott"><img src ="https://user-images.githubusercontent.com/45428531/100495404-7c0b7080-3119-11eb-8670-5ee7297970cf.jpg"></a>
 <h3>:school:	for the University of Virginia, Department of English</h3>
 <ul>
-<li> Co-Organizer, Thomas Jefferson, UVA, and Charlottesville's Relationship to Colonization, Slavery, and White Supremacy ENWR Curriculum Development Working Group, 2020-21</li>
+<li> Co-Organizer, Thomas Jefferson, UVA, and Charlottesville's Relationship to Colonization, Slavery, and White Supremacy ENWR Curriculum Development Working Group, 2020-21. <i>Convened in response to UVA's Black Student Alliance's <a href="https://twitter.com/bsaatuva/status/1267496865601290241?lang=en">"Historic Yet Unmet Demands."</a></i></li>
 </ul>
 
 <h3>:circus_tent:	for the University of Virginia, <a href="http://gesa.engl.virginia.edu/">Graduate English Students Association (GESA)</a></h3>
