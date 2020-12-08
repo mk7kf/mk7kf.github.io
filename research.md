@@ -11,7 +11,7 @@ title: Research
 </ul>
 <i>:woman_teacher: Pedagogy</i>
 <ul>
-<li> “Toward A Critical Pedagogical Approach For Using Wikipedia In The Composition Classroom And Beyond: Encyclopedic “Neutrality,” Social 	Inequality, and Failure as Subversion.” Submitted on July 2020. Forthcoming in December 2020 in <i>The Journal of Interactive Technology and Pedagogy (JITP)</i>. </li>
+<li> “Using Wikipedia In The Composition Classroom And Beyond: Encyclopedic “Neutrality,” Social Inequality, and Failure as Subversion.” Submitted on July 2020. Forthcoming in December 2020 in <i>The Journal of Interactive Technology and Pedagogy (JITP)</i>. </li>
 </ul>
 
 <h3>Digital Projects</h3>
