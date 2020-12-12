@@ -11,7 +11,7 @@ title: Research
 </ul>
 <i>:woman_teacher: Pedagogy</i>
 <ul>
-<li> “Using Wikipedia In The Composition Classroom And Beyond: Encyclopedic “Neutrality,” Social Inequality, and Failure as Subversion.” Submitted on July 2020. Forthcoming in December 2020 in <i>The Journal of Interactive Technology and Pedagogy (JITP)</i>. </li>
+<li><a href="https://jitp.commons.gc.cuny.edu/using-wikipedia-in-the-composition-classroom-and-beyond-encyclopedic-neutrality-social-inequality-and-failure-as-subversion/"> “Using Wikipedia In The Composition Classroom And Beyond: Encyclopedic “Neutrality,” Social Inequality, and Failure as Subversion.” </a><i>The Journal of Interactive Technology and Pedagogy (JITP)</i>. Issue 18. December 2020. </li>
 </ul>
 
 <h3>Digital Projects</h3>
