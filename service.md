@@ -28,7 +28,7 @@ title: Service
 
 <h3>:woman_teacher:	for the <a href="https://undiscipliningvc.org/">Undisciplining The Victorian Classroom Project</a></h3>
 <ul>
-<li>Participant, Victorian Studies and the African Diaspora Curriculum Group, Fall 2020</li>
+<li>Lead Contributor, Victorian Studies and the African Diaspora Curriculum Group, Fall 2020 - present </li>
 </ul>
 
 <h3>:loudspeaker:	for non-profit organizations</h3>
