@@ -45,11 +45,11 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#  - research.md
-#  - teaching.md
-#  - service.md
-#  - blog.md
+  header_pages:
+  - research.md
+  - teaching.md
+  - service.md
+  - blog.md
 
 disqus: 
   shortname: mk7kf
