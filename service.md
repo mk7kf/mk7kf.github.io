@@ -16,6 +16,11 @@ title: Service
 <li>Abstracts Reader, Annual Graduate Conference (CFP: Affect & Attachment) Spring 2019</li> 
 </ul>
 
+<h3>:woman_teacher:	for the <a href="https://undiscipliningvc.org/">Undisciplining The Victorian Classroom Project</a></h3>
+<ul>
+<li>Lead Contributor, Victorian Studies and the African Diaspora Curriculum Group, Fall 2020 - present </li>
+</ul>
+
 <h3>:tophat:	for <a href="https://victoriansinstitute.org/">The Victorians Institute</a></h3>
 <ul>
 <li> Graduate Student Council Board Member-at-Large, 2019-2021</li>
@@ -24,11 +29,6 @@ title: Service
 <h3>:eyes:	for the V21 Collective</h3>
 <ul>
 <li>Organizer, Charlottesville Satellite Summer Reading Group, Summer 2019</li>
-</ul>
-
-<h3>:woman_teacher:	for the <a href="https://undiscipliningvc.org/">Undisciplining The Victorian Classroom Project</a></h3>
-<ul>
-<li>Lead Contributor, Victorian Studies and the African Diaspora Curriculum Group, Fall 2020 - present </li>
 </ul>
 
 <h3>:loudspeaker:	for non-profit organizations</h3>
