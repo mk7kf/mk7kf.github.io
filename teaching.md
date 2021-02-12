@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-<img src="https://user-images.githubusercontent.com/45428531/107728569-71925900-6cbc-11eb-8706-9a7381de228b.jpeg">
+<img src="https://user-images.githubusercontent.com/45428531/107729134-ffbb0f00-6cbd-11eb-924e-f5d6665806c4.png">
 <h3>:woman_teacher:	 University of Virginia, Department of English</h3>
 <ul>
 <li>Teaching Assistant, <a href="https://news.virginia.edu/content/students-tackled-tough-topics-january-term-some-evolving-real-time?utm_source=DailyReport&utm_medium=email&utm_campaign=news">ENWR 2520 Writing & Critical Inquiry: Global Advocacy, Democracy, and Public Narrative</a>(themed undergraduate expository writing course) taught by Stephen Parks and Srđa Popović, Winter 2021</li>
