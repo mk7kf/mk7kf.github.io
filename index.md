@@ -8,7 +8,7 @@
 layout: home
 title: About
 ---
-<img src="https://user-images.githubusercontent.com/45428531/107605912-86aab180-6c02-11eb-9bce-6c2d4e68b180.jpg">
+<img src="https://user-images.githubusercontent.com/45428531/148488754-d2e5d16c-9a27-426b-a430-66e770a3eb00.jpg">
 <p>I am a PhD Candidate in the Department of English at the University of Virginia, where I hold the Elizabeth Arendall Tilney and Schuyler Merritt Tilney Jefferson Fellowship. I focus on the literature, culture, and history of the global nineteenth century, with interests in Decadence, Empire, and critical theory.</p>
 
 <p>My dissertation examines the relationship between Decadence and anti-imperialism through a set of writers from the African, Asian, and Indigenous diasporas in the late nineteenth century and beyond. In the process, my work aims to undiscipline the theoretical and aesthetic foundations of Decadence studies by bringing perspectives in Asian and Asian American studies, Black studies, Indigenous studies, Latinx Studies, and queer/quare theory to bear on our understanding of Decadence, as well as elucidating how the work in Decadence studies might in turn support the development of those fields. Outside of my dissertation, I'm also interested in the ways that Decadence resurfaces in, and shapes, our world today.</p>
