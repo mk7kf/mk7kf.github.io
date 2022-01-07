@@ -11,7 +11,7 @@ title: Work
 <ul><a href="https://undiscipliningvc.org/html/lesson_plans/africa_dramatic_monologue.html">“Undisciplining the Dramatic Monologue.”</a> Carolyn Betensky, Melissa Free, Ji Eun Lee, collab. peer revs.; Sophia Hsu, lesson plan cluster dev. <i>Undisciplining the Victorian Classroom</i>, 2021.</ul>
 <ul><a href="https://jitp.commons.gc.cuny.edu/using-wikipedia-in-the-composition-classroom-and-beyond-encyclopedic-neutrality-social-inequality-and-failure-as-subversion/">“Using Wikipedia in the composition classroom and beyond: Encyclopedic “Neutrality,” Social Inequality, and Failure as Subversion.”</a> <i>The Journal of Interactive Technology and Pedagogy (JITP)</i>. Issue 18. December 2020.</ul>
 <p><b>Book Reviews</b></p>
-<ul><a href="https://chajournal.blog/2021/04/27/hong-kong-aftershock/"> “Traces That Haunt the Scene: A Review of Aftershock: Essays from Hong Kong,”</a> <i>Cha: An Asian Literary Journal</i>, 27 Apr. 2021.</ul>
+<ul><a href="https://chajournal.blog/2021/04/27/hong-kong-aftershock/"> “Traces That Haunt the Scene: A Review of <i>Aftershock: Essays from Hong Kong,</i>”</a> <i>Cha: An Asian Literary Journal</i>, 27 Apr. 2021.</ul>
 <p><b>Teaching Experience</b></p>
 <ul>Graduate Teaching Assistant, ENWR 2520 Writing & Critical Inquiry: Global Advocacy, Democracy, and Public Narrative (themed undergraduate expository writing course, J-Term) taught by Stephen Parks and Srđa Popović (Winter 2021)</ul>
 <ul>Instructor of Record, ENWR 1510 Writing & Critical Inquiry: “Writing about Digital Forms: Instagram, Wikipedia, and <i>Black Mirror</i>” (Spring 2020)</ul>
