@@ -3,7 +3,7 @@ layout: page
 title: Work
 ---
 <p><b>Dissertation</b></p>
-<ul>My dissertation examines the relationship between Decadence and anti-imperialism through a set of writers from the African, Asian, and Indigenous diasporas in the late nineteenth century and beyond. In the process, my work aims to undiscipline the theoretical and aesthetic foundations of Decadence studies.</ul>
+<ul>My dissertation examines the relationship between Decadence and anti-imperialism through a set of writers from the African, Asian, and Indigenous diasporas in the late nineteenth century and beyond. In the process, my work aims to <a href="https://lareviewofbooks.org/article/undisciplining-victorian-studies/"> undiscipline </a>the theoretical and aesthetic foundations of Decadence studies.</ul>
 <p><b>Peer-Reviewed Literary Criticism</b></p>
 <ul><a href="https://journals.gold.ac.uk/index.php/volupte/article/view/1592">"Symbolism, Empire, and the Dance: On Sarojini Naidu's 'Eastern Dancers' and Arthur Symons's 'Javanese Dancers.'"</a> <i>Volupté: An Interdisciplinary Journal of Decadence Studies.</i> 4.2, (2021), 157-71. (Awarded the 2021 British Association for Decadence Studies Postgraduate Essay Prize.)</ul>
 <p><b>Peer-Reviewed Work in Pedagogy and Teaching</b></p>
