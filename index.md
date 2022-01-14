@@ -13,6 +13,6 @@ title: About
 
 <p>I also have interests in the digital humanities. I am Praxis Fellow at the UVa Library Scholars’ Lab, where I am working with other graduate students to develop a digital project. I like to engage with text analysis, manuscript transcription, and TEI encoding, and have taught classes related to digital writing and social media. Before starting my doctorate, I worked full-time for the NYU Center for Data Science, where I translated our faculty's peer-reviewed research about topics like natural language processing and artificial intelligence into accessible terms for communications teams and the public. </p> 
 
-<p>I received my M.A. in English and American Literature at New York University, where my work was awarded the department’s Millicent Bell Prize, and my B.A. in English with Classical Studies and Theology (first-class) from the University of Exeter.</p>
+<p>I received my M.A. in English and American Literature at New York University, where my work was awarded the department’s Millicent Bell Prize, and my B.A. in English with Classical Studies and Theology (first-class) from the University of Exeter. I was born and raised in Hong Kong and Vancouver.</p>
 
 <p>You can contact me at mk7kf@virginia.edu.</p>
