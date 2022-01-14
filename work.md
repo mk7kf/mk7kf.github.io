@@ -2,6 +2,7 @@
 layout: page
 title: Work
 ---
+<a href="https://zolimacitymag.com/how-did-the-bauhinia-a-sterile-flower-become-the-symbol-of-hong-kong/"><img src="https://user-images.githubusercontent.com/45428531/149438899-f0c94322-9708-4608-9921-fa96546b08f7.jpg"></a>
 <p><b>Dissertation</b></p>
 <ul>My dissertation examines the relationship between Decadence and anti-imperialism through a set of writers from the African, Asian, and Indigenous diasporas in the late nineteenth century and beyond. In the process, my work aims to <a href="https://lareviewofbooks.org/article/undisciplining-victorian-studies/"> undiscipline </a>the theoretical and aesthetic foundations of Decadence studies.</ul>
 <p><b>Peer-Reviewed Literary Criticism</b></p>
