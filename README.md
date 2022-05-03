@@ -2,7 +2,7 @@
 
 **http://mk7kf.github.io** is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time 🙀 -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
 
-You can also download the HTML, CSS, and Javascript files directly from this repository so that you can see how the website was built -- no shortcuts or other hidden packages / other apps. (The bar on the right, for example, shows you that the site is powered entirely by 90% HTML and 9% CSS.) This means that you can use my site as a template as a starting point for your own work if you wish.
+You can also download the HTML, CSS, and Javascript files directly from this repository so that you can see how the website was built -- no shortcuts or other hidden packages / other apps. You can use my site as a template or starting point for your own code if you wish.
 
 ## Aspirations or; Edits that I want to make in the future :wrench:
 * Ensure that the website conforms to Accessibility principles
