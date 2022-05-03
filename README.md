@@ -1,13 +1,14 @@
 # My Website
 
-mk7kf.github.io is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
+**http://mk7kf.github.io** is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time 🙀 -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
 
-## Website Inspirations
+## Website Inspirations :sparkles:
+As you might have noticed, my website straddles the line between academic and non-academic material. For example, the first half of the landing page titled [What I Do . . .](http://mk7kf.github.io) shares my academic pursuits, but the second half titled [. . .And Why I Do It](http://mk7kf.github.io) reveals some autobiographical information, particularly about my grandmother, that has in part shaped the trajectory of my career. It also reflects on the role thast settler colonialism and enslaved labor has played in building the institution where I study, live, and work today. Rather than writing a rote land acknowledgement, I wanted to think more carefully about the ways that higher education is deeply entangled with systems of oppression even as it portrays itself as a site for freedom and progressive thought. This short essay is a step toward this endeavor, and it also forms a part of the short essay collection that I am (slowly) working on, titled *A Higher Education*.
 * The Praxis Project that I've been working on this year, *Your Name Here*, which is intended to function as a starting point for graduate students in the humanities who want to try creating their own website using HTML/CSS, and are newcomers to the world of coding, design, and the digital humanities. 
 * **May Helena Plumb's** website: https://www.mayhplumb.com/
 * **Tao Leigh Goffe's** "The Flesh of the Family Album: Black Pacific" (2022): https://www-degruyter-com.proxy01.its.virginia.edu/document/doi/10.1515/9783110753295-019/html?lang=en, particularly for the " . . . And Why I Do It" section.
 
-## Edits I want to make in the future
+## Edits I want to make in the future :wrench:
 * Ensure that the website conforms to Accessibility principles
 * Change the Header image to an animated GIF or video
 * Optimize the site for phones as well as desktops
@@ -15,7 +16,7 @@ mk7kf.github.io is the second iteration of my own GitHub website. This time, ins
 * Add a "What is Decadence?" page in the Resources tab
 * Edit the javascript in the ". . . And Why I Do It" section so that the text begins typing once the user scrolls to the section, not immediately upon loading, and the quote generator in the "Treats" page so that the author names of each quote are bolded and the titles of each text are italicized. I'm a newcomer to Javascript and I couldn't figure out how to do this in time, so if you have any ideas, let me know!
 
-## Web Design Resources
+## Web Design Resources :computer:
 ### About Page
 * I created the typing effect in the ". . . And Why I Do it" by adapting some HTML and javascript code in **JC Lee's** "Simple Typing Effect pure JS (beginner)": https://dev.to/ljcdev/simple-typing-effect-pure-js-4p5m. 
 * I build the two column layout by adapting some of the code from the "CSS Multiple Columns" lesson at W3 Schools: https://www.w3schools.com/css/css3_multiple_columns.asp. 
