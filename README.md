@@ -4,12 +4,6 @@
 
 You can also download the HTML, CSS, and Javascript files directly from this repository so that you can see how the website was built -- no shortcuts or other hidden packages / other apps. (The bar on the right, for example, shows you that the site is powered entirely by 90% HTML and 9% CSS.) This means that you can use my site as a template as a starting point for your own work if you wish.
 
-## Website Inspirations :sparkles:
-As you might have noticed, my website straddles the line between academic and non-academic material. For example, the first half of the landing page titled [What I Do . . .](http://mk7kf.github.io) shares my academic pursuits, but the second half titled [. . .And Why I Do It](http://mk7kf.github.io) reveals some autobiographical information, particularly about my grandmother, that has partially shaped the trajectory of my career. It also reflects on the role that settler colonialism and enslaved labor has played in building the institution where I study, live, and work today. Rather than writing a rote land acknowledgement, I wanted to think more carefully about the ways that higher education is deeply entangled with systems of oppression even as it portrays itself as a site for freedom and progressive thought.
-* The Praxis Project that I've been working on this year, *Your Name Here*, which is intended to function as a starting point for graduate students in the humanities who want to try creating their own website using HTML/CSS, and are newcomers to the world of coding, design, and the digital humanities. 
-* May Helena Plumb's website: https://www.mayhplumb.com/, especially for modelling how solidarity in the academy looks like through sharing grant and fellowship documents, and providing land acknowledgement statements.
-* Tao Leigh Goffe's "The Flesh of the Family Album: Black Pacific" (2022), particularly for my " . . . And Why I Do It" section. (I am unable to find an open version of this article.)
-
 ## Aspirations or; Edits that I want to make in the future :wrench:
 * Ensure that the website conforms to Accessibility principles
 * Change the Header image to an animated GIF or video
@@ -35,3 +29,9 @@ As you might have noticed, my website straddles the line between academic and no
 
 ### Treats Page
 * I created the randomized quote generator by adapting the code from **Sophanarith Sok's** "Build a random quote generator with Javascript and HTML for absolute beginners": https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/. 
+
+## Website Inspirations :sparkles:
+As you might have noticed, my website straddles the line between academic and non-academic material. For example, the first half of the landing page titled [What I Do . . .](http://mk7kf.github.io) shares my academic pursuits, but the second half titled [. . .And Why I Do It](http://mk7kf.github.io) reveals some autobiographical information, particularly about my grandmother, that has partially shaped the trajectory of my career. It also reflects on the role that settler colonialism and enslaved labor has played in building the institution where I study, live, and work today. Rather than writing a rote land acknowledgement, I wanted to think more carefully about the ways that higher education is deeply entangled with systems of oppression even as it portrays itself as a site for freedom and progressive thought. Below are some other inspirations.
+* The Praxis Project that I've been working on this year, *Your Name Here*, which is intended to function as a starting point for graduate students in the humanities who want to try creating their own website using HTML/CSS, and are newcomers to the world of coding, design, and the digital humanities. 
+* May Helena Plumb's website: https://www.mayhplumb.com/, especially for modelling how solidarity in the academy looks like through sharing grant and fellowship documents, and providing land acknowledgement statements.
+* Tao Leigh Goffe's "The Flesh of the Family Album: Black Pacific" (2022), particularly for my " . . . And Why I Do It" section. I am unable to find an open-access version of this article, but she was kind enough to email it to me when I asked.
