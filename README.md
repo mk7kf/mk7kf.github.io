@@ -1,16 +1,16 @@
-# mk7kf.github.io
+# My Website
 
-This is the second iteration of my own GitHub website. This time, instead of relying on a premade GitHub template, I coded and designed the entire website by hand -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building the website. 
+mk7kf.github.io is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
 
 ## Website Inspirations
 * The Praxis Project that I've been working on this year, *Your Name Here*, which is intended to function as a starting point for graduate students in the humanities who want to try creating their own website using HTML/CSS, and are newcomers to the world of coding, design, and the digital humanities. 
 * **May Helena Plumb's** website: https://www.mayhplumb.com/
 * **Tao Leigh Goffe's** "The Flesh of the Family Album: Black Pacific" (2022): https://www-degruyter-com.proxy01.its.virginia.edu/document/doi/10.1515/9783110753295-019/html?lang=en, particularly for the " . . . And Why I Do It" section.
 
-## Edits I am hoping to make in the next iteration of my website
+## Edits I want to make in the future
 * Ensure that the website conforms to Accessibility principles
+* Optimize the site for phones as well as desktops
 * Create French and Mandarin versions of the website
-* Add more personal touches
 * Add a "What is Decadence?" page in the Resources tab
 * Edit the javascript in the ". . . And Why I Do It" section so that the text begins typing once the user scrolls to the section, not immediately upon loading. I'm a newcomer to javascript so it's my first time working with it -- if you have any ideas, let me know!
 
