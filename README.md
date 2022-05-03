@@ -5,8 +5,8 @@
 ## Website Inspirations :sparkles:
 As you might have noticed, my website straddles the line between academic and non-academic material. For example, the first half of the landing page titled [What I Do . . .](http://mk7kf.github.io) shares my academic pursuits, but the second half titled [. . .And Why I Do It](http://mk7kf.github.io) reveals some autobiographical information, particularly about my grandmother, that has in part shaped the trajectory of my career. It also reflects on the role thast settler colonialism and enslaved labor has played in building the institution where I study, live, and work today. Rather than writing a rote land acknowledgement, I wanted to think more carefully about the ways that higher education is deeply entangled with systems of oppression even as it portrays itself as a site for freedom and progressive thought. This short essay is a step toward this endeavor, and it also forms a part of the short essay collection that I am (slowly) working on, titled *A Higher Education*.
 * The Praxis Project that I've been working on this year, *Your Name Here*, which is intended to function as a starting point for graduate students in the humanities who want to try creating their own website using HTML/CSS, and are newcomers to the world of coding, design, and the digital humanities. 
-* **May Helena Plumb's** website: https://www.mayhplumb.com/
-* **Tao Leigh Goffe's** "The Flesh of the Family Album: Black Pacific" (2022): https://www-degruyter-com.proxy01.its.virginia.edu/document/doi/10.1515/9783110753295-019/html?lang=en, particularly for my " . . . And Why I Do It" section.
+* May Helena Plumb's website: https://www.mayhplumb.com/, especially for modelling how solidarity in the academy looks like through sharing grant and fellowship documents, and providing land acknowledgement statements.
+* Tao Leigh Goffe's "The Flesh of the Family Album: Black Pacific" (2022), particularly for my " . . . And Why I Do It" section. (I am unable to find an open version of this article.)
 
 ## Aspirations or; Edits that I want to make in the future :wrench:
 * Ensure that the website conforms to Accessibility principles
