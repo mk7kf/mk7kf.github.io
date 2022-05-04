@@ -16,9 +16,9 @@ You can also download the HTML, CSS, and Javascript files directly from this rep
 ## Web Design Resources :computer:
 ### About Page
 * I created the typing effect in the ". . . And Why I Do it" by adapting some HTML and javascript code in **JC Lee's** "Simple Typing Effect pure JS (beginner)": https://dev.to/ljcdev/simple-typing-effect-pure-js-4p5m. 
-* I build the two column layout by adapting some of the code from the "CSS Multiple Columns" lesson at W3 Schools: https://www.w3schools.com/css/css3_multiple_columns.asp. 
-* I found the header image on unsplash.com http://www.unsplash.com, a great site that contains freely-usable high-quality images.
-* I found the font on Google Fonts https://fonts.google.com/, which provides freely-usable, high-quality fonts and handy tools for easily importing those fonts into your website. 
+* I built the two column layout by adapting some of the code from the "CSS Multiple Columns" lesson at W3 Schools: https://www.w3schools.com/css/css3_multiple_columns.asp. 
+* I found the header image on http://www.unsplash.com, a great site that contains freely-usable high-quality images.
+* I found the font on https://fonts.google.com/, which provides freely-usable, high-quality fonts and handy tools for easily importing those fonts into your website. 
 
 ### Work Page
 * I created the different tabs by adapting the code from the "Collapsibles/Accordian" lesson at W3 Schools: https://www.w3schools.com/howto/howto_js_accordion.asp
