@@ -9,6 +9,7 @@ You can also download the HTML, CSS, and Javascript files directly from this rep
 * Change the Header image to an animated GIF or video
 * Flesh out and improve the Google MyMap of my dissertation 
 * Optimize the site for phones as well as desktops
+* Add a blog component to the website so that I can write about books that I'm reading
 * Create French and Mandarin versions of the website
 * Add a "What is Decadence?" page in the Resources tab
 * Edit the javascript in the ". . . And Why I Do It" section so that the text begins typing once the user scrolls to the section, not immediately upon loading, and the quote generator in the "Treats" page so that the author names of each quote are bolded and the titles of each text are italicized. I'm a newcomer to Javascript and I couldn't figure out how to do this in time, so if you have any ideas, let me know!
