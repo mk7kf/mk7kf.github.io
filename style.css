@@ -182,7 +182,7 @@ img {
   cursor: pointer;
   padding: 18px;
   width: 100%;
-  border: dotted;
+  border: none;
   text-align: left;
   outline: none;
   font-size: 20px;
