@@ -7,11 +7,11 @@ You can also download the HTML, CSS, and Javascript files directly from this rep
 ## Inspirations 🌠
 
 As you might have noticed, my website straddles the line between academic and non-academic material.  For example, the first half of the landing page titled [What I Do . . .](http://mk7kf.github.io) shares my academic pursuits, but the second half titled [. . .And Why I Do It](http://mk7kf.github.io) reveals some autobiographical information, particularly about my grandmother, that has partially shaped the trajectory of my career.  It also reflects on the role that settler colonialism and enslaved labor has played in building the institution where I study, live, and work today. Rather than writing a rote land acknowledgement, I wanted to think more carefully about the ways that higher education is deeply entangled with systems of oppression even as it portrays itself as a site for freedom and progressive thought. Some other inspirations include:
-* May Helena Plumb's website: https://www.mayhplumb.com/, especially for modelling what solidarity in the academy looks like through sharing grant and fellowship documents, and providing land acknowledgement statements.
+* **May Helena Plumb's** website (https://www.mayhplumb.com/), especially for modelling what solidarity in the academy looks like through sharing grant and fellowship documents, and providing land acknowledgement statements.
+* **The Minimal Computing approach** (https://go-dh.github.io/mincomp/thoughts/). At the most general level, minimal computing emphasizes designing websites and other digital projects around the question of "What do we need?" (Alex Gil). Some of the principles that shape this HTML/CSS-only website are minimal obsolescence, maximum access, maximum justice, and minimal automation, and you can find out more about these principles on this page: https://go-dh.github.io/mincomp/thoughts/2016/10/03/tldr/. 
 
 ## Aspirations or; Edits that I want to make in the future :wrench:
 * Ensure that the website conforms to Accessibility principles
-* Change the Header image to an animated GIF or video
 * Flesh out and improve the Google MyMap of my dissertation 
 * Optimize the site for phones as well as desktops
 * Add a blog component to the website so that I can write about books that I'm reading
