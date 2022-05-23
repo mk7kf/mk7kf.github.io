@@ -1,4 +1,4 @@
-# My Website: Inspirations, Aspirations, and Resources
+# My Website: Inspirations, Aspirations, Resources and Q&A
 
 **http://mk7kf.github.io** is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time 🙀 -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
 
@@ -34,4 +34,9 @@ As you might have noticed, my website straddles the line between academic and no
 * I created the download buttons by adapting the code from the "Download Button" lesson at W3 Schools: https://www.w3schools.com/howto/howto_css_download_button.asp. 
 
 ### Treats Page
-* I created the randomized quote generator by adapting the code from **Sophanarith Sok's** "Build a random quote generator with Javascript and HTML for absolute beginners": https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/. 
+* I created the randomized quote generator by adapting the code from **Sophanarith Sok's** "Build a random quote generator with Javascript and HTML for absolute beginners": https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/.
+
+### Q & A 
+*Why did you use the typing effect for the essay on the homepage instead of simply writing the whole essay out?*
+
+The typing effect forces the reader to slow down and experience a different reading practice online. I wanted to do this to remind the reader that reading and reflection are processes that cannot be rushed. I love the digital world but I remain concerned about the way that digital platforms continue to shrink our attention spans. Others have tried to recuperate distraction and/or brevity as intellectually valuable and I am not necessarily opposed to these stances. But I suppose I chose to present this essay through a typing effect to re-emphasize the art -- and importance -- of patience and concentration.
