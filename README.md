@@ -1,6 +1,17 @@
-# My Website: Inspirations, Aspirations, Resources and Q&A
+# My Website V.3 (2023-present) 🌟
 
-**http://mk7kf.github.io** is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time 🙀 -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
+**http://mk7kf.github.io** is the third iteration of my own GitHub website. This time, I coded my website once again from scratch, but this time I focused on applying more minimal computing principles. This iteration is much simpler and straightforward than V2, and relies only on HTML/CSS, with no Javascript. Again, you can download all the code directly from this repository so that you can see how the website was built -- no shortcuts or other hidden packages / other apps. You can use my site as a template or starting point for your own code if you wish.
+
+The design is a simple, single-column grid so that it can be read comfortably on a mobile as well as a desktop or laptop screen. There are as few images as possible on the website so that it can be loaded easily regardless of the quality of Wi-Fi. I've also removed a lot of the other resources and features from the previous version in order to cut down on the website's bulk, and to keep some things private. While I still support the collaborative and open ethos that shaped the last version of my website, the internet is becoming an increasingly sketchy place so I am trying to be more conscious about what I upload here. 
+
+One thing I really like about the new iteration of this design is that I was able to add my Chinese name alongside my English one as the header. I was also able to center the picture of my grandmother and I as the main image. I also like the new font better—Arsenal, from Google Fonts. It's still sans-serif, but its just a little heavier so that the text is easier to read. 
+
+---
+
+## Website V.2 (2021-2022)
+* The following notes are a record of my thoughts for the second version of my website.
+
+**http://mk7kf.github.io** is the second iteration of my own GitHub website. This time, instead of relying on a premade template, I coded and designed the entire website by hand for the first time -- but I had a lot of help. This ReadMe lists all of the inspirations and resources that I used and/or found useful when building it. 
 
 You can also download the HTML, CSS, and Javascript files directly from this repository so that you can see how the website was built -- no shortcuts or other hidden packages / other apps. You can use my site as a template or starting point for your own code if you wish.
 
