@@ -1,12 +1,12 @@
 # My Website V.3 (2023-present) 🌟
 
-**http://mk7kf.github.io** is the third iteration of my own GitHub website. I coded my website once again from scratch instead of relying on a template, but this time I focused on applying more minimal computing principles. This iteration is much simpler and more straightforward than V2. It relies only on HTML/CSS, no Javascript. Again, you can download all the code directly from this repository so that you can see how the website was built -- no shortcuts or other hidden packages / other apps. You can use my site as a template or starting point for your own website if you wish.
+**http://mk7kf.github.io** is the third iteration of my own GitHub website. I coded my website once again from scratch instead of relying on a template, but this time I focused on applying more minimal computing principles. This iteration is much simpler than V2. It is a responsive website that relies only on HTML/CSS, no Javascript. Again, you can download all the code directly from this repository so that you can see how the website was built—no shortcuts or other hidden packages / other apps. You can use my site as a template or starting point for your own website if you wish.
 
 The design is a simple, single-column grid so that it can be read comfortably on a mobile as well as a desktop or laptop screen. There are as few images as possible on the website so that it can be loaded easily regardless of the quality of Wi-Fi. I've also removed a lot of the other resources and features from the previous version in order to cut down on the website's bulk, and to keep some things private. While I still support the collaborative and open ethos that shaped the last version of my website, the internet is becoming an increasingly sketchy place so I am trying to be more conscious about what I upload here. 
 
-The most "complicated" dimension of the website is perhaps the Twitter timeline embedding on the "Contact" page—but even then this was a straightforward addition. Again, all HTML and CSS, no Javascript needed. 
+The most "complicated" dimension of the website is perhaps the Twitter timeline embedding on the "Contact" page—but even then this was a straightforward addition. Again, all HTML and CSS.
 
-One thing I really like about the new design I made is the addition of my Chinese name alongside my English one as the header. I was also able to center the picture of my grandmother and myself as the main image. I also like the new font better—Arsenal, from Google Fonts. It's still sans-serif, but it's just a little heavier so that the text is easier to read. 
+One thing I really like about the new design is the addition of my Chinese name alongside my English one as the header. I was also able to center the picture of my grandmother and myself as the main image. I also like the new font better—Arsenal, from Google Fonts. It's still sans-serif, but just a little heavier than the font in V2 so that the text is easier to read. 
 
 ---
 
