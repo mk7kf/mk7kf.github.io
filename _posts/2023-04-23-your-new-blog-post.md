@@ -1,22 +1,10 @@
-<!DOCTYPE html>
-<html lang="en-us">
-<head>
-  <link rel="stylesheet" href="style.css">
-  <title> Cherrie Kwok </title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Arsenal&display=swap" rel="stylesheet">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-</head>
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
-  <h1><center>Cherrie Kwok / 郭明欣</center></h1>
-  <p><center><img src="grandma.jpg" style="max-width:50%;height:auto;"></center></p>
+# Welcome
 
-  <div class="topnav">
-    <center><a class="active" href="index">Home</a> <a href="work">Work</a> <a href="contact">Contact</a></center>
-  </div>
-  
-  <div class="content">
-    <h1> 23 April 2023 </h1>
-    <p>Test</p>
-  </div>
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
