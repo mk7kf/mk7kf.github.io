@@ -32,17 +32,3 @@ font-family: 'Arsenal', sans-serif;
   padding: 1px;
   font-size: 20px;
 }
-
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: #000000;
-   color: #FFFFFF;
-   text-align: center;
-}
-
-.footer a:link, a:visited, a:hover, a:active {
-	color: #FFFFFF;
-}
