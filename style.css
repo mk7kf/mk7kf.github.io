@@ -5,6 +5,10 @@ font-family: 'Arsenal', sans-serif;
  	width: 100%; 	
 }
 
+a:link, a:visited {
+  background-color: #000000;
+}
+
 .topnav {
   background-color: #FFFFFF;
 }
