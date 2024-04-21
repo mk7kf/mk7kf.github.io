@@ -1,4 +1,7 @@
-# My Website V.3 (2023-present) 🌟
+# My Website V.4 (2024 - present)🌟
+This is the fourth iteration of my website -- again, all from scratch, pure HTML/CSS, blah blah blah. You get the idea. A more decorative layout this time, with a fixed sidebar image from a Chinese traditional dress called a *cheungsum* in Cantonese, and a *qipao* in Mandarin. The font is EB Garamond, larger and more readable than the last iteration. I don't usually go for serif fonts, but this fit the sidebar image better. The pages are largely the same, just divided into Research, Teaching, and DH, rather than smushing everything together under "Work" in the last website design. The contact page is gone, replaced by three social media icons (LinkedIn, Twitter, and Email) at the bottom. All the photos have changed as well, except for the one with my maternal grandmother. The whole website also presents very well on cellphones and tablets, much better than the last design. And, of course, the most obvious addition this year is the "Dr." ahead of my name. I finally got that PhD! I think this is my favorite design yet. 
+
+# My Website V.3 (2023-2024) 
 
 **http://mk7kf.github.io** is the third iteration of my own GitHub website. I coded my website once again from scratch instead of relying on a template, but this time I focused on applying more minimal computing principles. This iteration is much simpler than V2. It is a responsive website that relies only on HTML/CSS, no Javascript. Again, you can download all the code directly from this repository so that you can see how the website was built—no shortcuts or other hidden packages / other apps. You can use my site as a template or starting point for your own website if you wish.
 
